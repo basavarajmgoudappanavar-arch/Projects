@@ -1,0 +1,5 @@
+Title: RTOS-Based Boom Height Monitoring and Adjustment System for Precision Agriculture Using LPC1768 ARM Controller
+Problem Statemnet :
+Implemented a system to ensure consistent and optimum spray coverage over uneven terrain and varying crop heights by continuously monitoring and adjusting the spray boom height. 
+The system prevents the boom from impacting crops or soil, thereby protecting both equipment and crops. 
+It is designed to be immune to the effects of dust, dirt, and agricultural chemicals, and is capable of detecting surfaces of any color with uniform accuracy, ensuring reliable operation in harsh field conditions.
